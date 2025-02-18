@@ -1,7 +1,7 @@
 # Pdf-Summarizer Using OpenAI 
 
 This project is a web application that summarizes multiple PDF documents using OpenAI's language models and the LangChain framework. The app is built using Streamlit for an interactive web interface.
-xdddndjcn
+
 ### Installation
 Clone the repository and navigate to the project directory.
 
