@@ -11,7 +11,7 @@ bash
 Copy code
 pip install langchain streamlit python-dotenv
 Set up environment variables:
-
+ggggg
 ### Create a .env file in the project directory.
  
 ### Add your OpenAI API key:
