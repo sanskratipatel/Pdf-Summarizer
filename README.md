@@ -36,5 +36,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Acknowledgements
  Streamlit: For providing an easy-to-use web app framework.
- LangChain: For simplifying interactions with large language models.
-OpenAI: For offering powerful language model APIs.
+
