@@ -31,8 +31,7 @@ Upload PDF files: Use the file uploader in the Streamlit interface to select one
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss the proposed modifications.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+.
 
 ## Acknowledgements
  Streamlit: For providing an easy-to-use web app framework.
